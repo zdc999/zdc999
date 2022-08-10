@@ -1,16 +1,17 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2ce3f382586193.5d2265af883a4.png)]
-<h2 align="center">Hola 👋! Mi nombre es Gastón Díaz, un programador web 🇦🇷</h2>
+<h1 align="center">Hola 👋! soy Gastón Díaz estudiante Full Stack 🇦🇷</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&username=zdc999" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=zdc999" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">💫 Sobre Mí</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+<p align="center">👤 22 años - 📍Argentina, Mendoza<br>🌱Constantemente estoy aprendiendo nuevas tecnologias en multiples sitios <br>🎓Aprendiendo JS y React <br>👯Me gusta realizar proyectos y participar activamente en mis grupos de estudio <br>⚡Me encanta leer y escuchar música <br>🔜 Proyecto a futuro: mi propio blog website</p>
+
+###
+
+<h2 align="center">🧠 Conocimientos</h2>
 
 ###
 
@@ -31,7 +32,11 @@
 
 ###
 
-<div align="left">
+<h2 align="center">🤝 Redes</h2>
+
+###
+
+<div align="center">
   <a href="https://www.youtube.com/channel/UCxlyp1Hm2wJQTp6shx1-_4g" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="69" height="40" alt="youtube logo"  />
   </a>
@@ -51,8 +56,23 @@
 
 ###
 
-<div align="right">
+<h2 align="center">💹 Estadísticas</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&username=zdc999" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=zdc999" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://profile-counter.glitch.me/zdc999/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
 
 ###
