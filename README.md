@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">👤 22 años - 📍Argentina, Mendoza<br>🌱Constantemente estoy aprendiendo nuevas tecnologias en multiples sitios <br>🎓Aprendiendo JS y React <br>👯Me gusta realizar proyectos y participar activamente en mis grupos de estudio <br>⚡Me encanta leer y escuchar música <br>🔜 Proyecto a futuro: mi propio blog website</p>
+<p align="center">👤 22 años - 📍Argentina, Mendoza<br>🌱Constantemente estoy aprendiendo nuevas tecnologias en multiples sitios <br>🎓Aprendiendo JS y React <br>👯Me gusta realizar proyectos y participar activamente en mis grupos de estudio <br>⚡Me encanta leer y escuchar música <br>🔜 Proyecto a futuro: mi propio blog website <br> ➕ Estudiante de Cs. Médicas</p>
 
 ###
 
