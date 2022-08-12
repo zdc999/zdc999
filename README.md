@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2ce3f382586193.5d2265af883a4.png)]
-<h1 align="center">Hola 👋! soy Gastón Díaz estudiante Full Stack 🇦🇷</h1>
+<h1 align="center">Hola 👋! soy Gastón Díaz estudiante Full Stack Developer🇦🇷</h1>
 
 ###
 
