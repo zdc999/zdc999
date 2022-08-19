@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2ce3f382586193.5d2265af883a4.png)]
-<h1 align="center">Hola 👋! soy Gastón Díaz estudiante Full Stack Developer🇦🇷</h1>
+<h1 align="center">Hola 👋! soy Gastón Díaz estudiante Full Stack 🇦🇷</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">👤 22 años - 📍Argentina, Mendoza<br>🌱Constantemente estoy aprendiendo nuevas tecnologias en multiples sitios <br>🎓Aprendiendo JS y React <br>👯Me gusta realizar proyectos y participar activamente en mis grupos de estudio <br>⚡Me encanta leer y escuchar música <br>🔜 Proyecto a futuro: mi propio blog website <br> ➕ Estudiante de Cs. Médicas</p>
+<p align="center">👤 22 años - 📍Argentina, Mendoza<br>🌱Constantemente estoy aprendiendo nuevas tecnologias en multiples sitios <br>🎓Estudiando React<br>👯Me gusta realizar proyectos y participar activamente en mis grupos de estudio <br>⚡Me encanta leer y escuchar música <br>🔜 Proyecto a futuro: mi propio blog website<br>👉 Lo invito a ver mis repositorios en la siguiente sección<br>💚 Gracias por su tiempo</p>
 
 ###
 
@@ -16,9 +16,10 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="62" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="62" alt="sass logo"  />
@@ -61,14 +62,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&username=zdc999" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=zdc999" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&username=zdc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=zdc" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/zdc999/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/zdc/count.svg?"  />
 </div>
 
 ###
